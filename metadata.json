@@ -1,0 +1,5 @@
+{
+  "name": "Uhired AI Dashboard",
+  "description": "A pixel-perfect replication of the Careerflow.ai dashboard interface using React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
